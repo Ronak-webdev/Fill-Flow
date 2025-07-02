@@ -10,5 +10,13 @@
 	"keywords": [],
 	"author": "",
 	"license": "ISC",
-	"type": "commonjs"
+	"type": "commonjs",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Ronak-webdev/Fill-Flow.git"
+	},
+	"bugs": {
+		"url": "https://github.com/Ronak-webdev/Fill-Flow/issues"
+	},
+	"homepage": "https://github.com/Ronak-webdev/Fill-Flow#readme"
 }
